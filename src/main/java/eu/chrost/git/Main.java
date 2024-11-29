@@ -17,5 +17,6 @@ public class Main {
         System.out.println(value);
 
         System.out.println("On master branch");
+        System.out.println("On master branch 2");
     }
 }
